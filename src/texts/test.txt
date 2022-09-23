@@ -1,0 +1,1 @@
+A string or regular expression to use for splitting.If omitted, an array with the original string is returned.An integer that limits the number of splits.Items after the limit are excluded.
